@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bfe77fe3add2b5db91b6eb6f69d61915",
+    "revision": "dcf8422a62654796c1173c93f666a7d6",
     "url": "/dhl-gallery-reactjs/index.html"
   },
   {
-    "revision": "e703792319d007a90cc0",
+    "revision": "43a01c4174e4b69304bd",
     "url": "/dhl-gallery-reactjs/static/css/main.32337a2c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dhl-gallery-reactjs/static/js/2.7073db98.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e703792319d007a90cc0",
-    "url": "/dhl-gallery-reactjs/static/js/main.6a6e529d.chunk.js"
+    "revision": "43a01c4174e4b69304bd",
+    "url": "/dhl-gallery-reactjs/static/js/main.a572a6ac.chunk.js"
   },
   {
     "revision": "86ffb541ca8bdcc728c9",
