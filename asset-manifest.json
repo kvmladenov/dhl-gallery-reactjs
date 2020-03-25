@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dhl-gallery-reactjs/static/css/main.32337a2c.chunk.css",
+    "main.css": "/dhl-gallery-reactjs/static/css/main.e8dcb26f.chunk.css",
     "main.js": "/dhl-gallery-reactjs/static/js/main.a572a6ac.chunk.js",
     "main.js.map": "/dhl-gallery-reactjs/static/js/main.a572a6ac.chunk.js.map",
     "runtime-main.js": "/dhl-gallery-reactjs/static/js/runtime-main.45d6cbae.js",
@@ -8,15 +8,15 @@
     "static/js/2.7073db98.chunk.js": "/dhl-gallery-reactjs/static/js/2.7073db98.chunk.js",
     "static/js/2.7073db98.chunk.js.map": "/dhl-gallery-reactjs/static/js/2.7073db98.chunk.js.map",
     "index.html": "/dhl-gallery-reactjs/index.html",
-    "precache-manifest.3f2462a8553f276f57a15454f66bb282.js": "/dhl-gallery-reactjs/precache-manifest.3f2462a8553f276f57a15454f66bb282.js",
+    "precache-manifest.8766223d0b6022a0811f173e67eb2153.js": "/dhl-gallery-reactjs/precache-manifest.8766223d0b6022a0811f173e67eb2153.js",
     "service-worker.js": "/dhl-gallery-reactjs/service-worker.js",
-    "static/css/main.32337a2c.chunk.css.map": "/dhl-gallery-reactjs/static/css/main.32337a2c.chunk.css.map",
+    "static/css/main.e8dcb26f.chunk.css.map": "/dhl-gallery-reactjs/static/css/main.e8dcb26f.chunk.css.map",
     "static/js/2.7073db98.chunk.js.LICENSE.txt": "/dhl-gallery-reactjs/static/js/2.7073db98.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.45d6cbae.js",
     "static/js/2.7073db98.chunk.js",
-    "static/css/main.32337a2c.chunk.css",
+    "static/css/main.e8dcb26f.chunk.css",
     "static/js/main.a572a6ac.chunk.js"
   ]
 }
