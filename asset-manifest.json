@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/pages-gallery-reactjs/static/css/main.32337a2c.chunk.css",
-    "main.js": "/pages-gallery-reactjs/static/js/main.40a6f467.chunk.js",
-    "main.js.map": "/pages-gallery-reactjs/static/js/main.40a6f467.chunk.js.map",
-    "runtime-main.js": "/pages-gallery-reactjs/static/js/runtime-main.e1b28633.js",
-    "runtime-main.js.map": "/pages-gallery-reactjs/static/js/runtime-main.e1b28633.js.map",
-    "static/js/2.7073db98.chunk.js": "/pages-gallery-reactjs/static/js/2.7073db98.chunk.js",
-    "static/js/2.7073db98.chunk.js.map": "/pages-gallery-reactjs/static/js/2.7073db98.chunk.js.map",
-    "index.html": "/pages-gallery-reactjs/index.html",
-    "precache-manifest.56867057432a63826c1ca843c698d6a5.js": "/pages-gallery-reactjs/precache-manifest.56867057432a63826c1ca843c698d6a5.js",
-    "service-worker.js": "/pages-gallery-reactjs/service-worker.js",
-    "static/css/main.32337a2c.chunk.css.map": "/pages-gallery-reactjs/static/css/main.32337a2c.chunk.css.map",
-    "static/js/2.7073db98.chunk.js.LICENSE.txt": "/pages-gallery-reactjs/static/js/2.7073db98.chunk.js.LICENSE.txt"
+    "main.css": "/dhl-gallery-reactjs/static/css/main.32337a2c.chunk.css",
+    "main.js": "/dhl-gallery-reactjs/static/js/main.939ed82b.chunk.js",
+    "main.js.map": "/dhl-gallery-reactjs/static/js/main.939ed82b.chunk.js.map",
+    "runtime-main.js": "/dhl-gallery-reactjs/static/js/runtime-main.45d6cbae.js",
+    "runtime-main.js.map": "/dhl-gallery-reactjs/static/js/runtime-main.45d6cbae.js.map",
+    "static/js/2.553938f3.chunk.js": "/dhl-gallery-reactjs/static/js/2.553938f3.chunk.js",
+    "static/js/2.553938f3.chunk.js.map": "/dhl-gallery-reactjs/static/js/2.553938f3.chunk.js.map",
+    "index.html": "/dhl-gallery-reactjs/index.html",
+    "precache-manifest.f77f0118190e1f68d3a30d65281ab40a.js": "/dhl-gallery-reactjs/precache-manifest.f77f0118190e1f68d3a30d65281ab40a.js",
+    "service-worker.js": "/dhl-gallery-reactjs/service-worker.js",
+    "static/css/main.32337a2c.chunk.css.map": "/dhl-gallery-reactjs/static/css/main.32337a2c.chunk.css.map",
+    "static/js/2.553938f3.chunk.js.LICENSE.txt": "/dhl-gallery-reactjs/static/js/2.553938f3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e1b28633.js",
-    "static/js/2.7073db98.chunk.js",
+    "static/js/runtime-main.45d6cbae.js",
+    "static/js/2.553938f3.chunk.js",
     "static/css/main.32337a2c.chunk.css",
-    "static/js/main.40a6f467.chunk.js"
+    "static/js/main.939ed82b.chunk.js"
   ]
 }
