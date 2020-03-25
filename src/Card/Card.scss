@@ -1,0 +1,67 @@
+/* CARD Component Styles */
+.container-photos .card {
+	margin: 5px 5px;
+	position: relative;
+	flex-basis: 30%;
+	min-height: 150px;
+
+	.mark-fav {
+		display: block;
+		width: 30px;
+		height: 30px;
+
+		position: absolute;
+		top: 0;
+		right: 0;
+
+		cursor: pointer;
+		text-align: center;
+		background-color: #fff;
+		border-radius: 0px 0px 0px 4px;
+
+		.unmarked, .marked {
+			line-height: 30px;
+			font-size: 16px;
+			color: blue;
+			pointer-events: none;
+		}
+
+		.unmarked {
+			display: block;
+		}
+
+		.marked {
+			display: none;
+		}
+
+		&.saved {
+			.unmarked {
+				display: none !important;
+			}
+
+			.marked {
+				display: block !important;
+			}
+		}
+
+		&:hover {
+			.unmarked {
+				display: none;
+			}
+
+			.marked {
+				display: block;
+			}
+
+			&.saved {
+				.unmarked {
+					display: block !important;
+				}
+
+				.marked {
+					display: none !important;
+				}
+			}
+		}
+	}
+}
