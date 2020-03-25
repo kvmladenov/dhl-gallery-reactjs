@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/dhl-gallery-reactjs/static/css/main.32337a2c.chunk.css",
-    "main.js": "/dhl-gallery-reactjs/static/js/main.939ed82b.chunk.js",
-    "main.js.map": "/dhl-gallery-reactjs/static/js/main.939ed82b.chunk.js.map",
+    "main.js": "/dhl-gallery-reactjs/static/js/main.6a6e529d.chunk.js",
+    "main.js.map": "/dhl-gallery-reactjs/static/js/main.6a6e529d.chunk.js.map",
     "runtime-main.js": "/dhl-gallery-reactjs/static/js/runtime-main.45d6cbae.js",
     "runtime-main.js.map": "/dhl-gallery-reactjs/static/js/runtime-main.45d6cbae.js.map",
-    "static/js/2.553938f3.chunk.js": "/dhl-gallery-reactjs/static/js/2.553938f3.chunk.js",
-    "static/js/2.553938f3.chunk.js.map": "/dhl-gallery-reactjs/static/js/2.553938f3.chunk.js.map",
+    "static/js/2.7073db98.chunk.js": "/dhl-gallery-reactjs/static/js/2.7073db98.chunk.js",
+    "static/js/2.7073db98.chunk.js.map": "/dhl-gallery-reactjs/static/js/2.7073db98.chunk.js.map",
     "index.html": "/dhl-gallery-reactjs/index.html",
-    "precache-manifest.f77f0118190e1f68d3a30d65281ab40a.js": "/dhl-gallery-reactjs/precache-manifest.f77f0118190e1f68d3a30d65281ab40a.js",
+    "precache-manifest.ea048cb401d2afe8aec6bfc1ecffd0c9.js": "/dhl-gallery-reactjs/precache-manifest.ea048cb401d2afe8aec6bfc1ecffd0c9.js",
     "service-worker.js": "/dhl-gallery-reactjs/service-worker.js",
     "static/css/main.32337a2c.chunk.css.map": "/dhl-gallery-reactjs/static/css/main.32337a2c.chunk.css.map",
-    "static/js/2.553938f3.chunk.js.LICENSE.txt": "/dhl-gallery-reactjs/static/js/2.553938f3.chunk.js.LICENSE.txt"
+    "static/js/2.7073db98.chunk.js.LICENSE.txt": "/dhl-gallery-reactjs/static/js/2.7073db98.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.45d6cbae.js",
-    "static/js/2.553938f3.chunk.js",
+    "static/js/2.7073db98.chunk.js",
     "static/css/main.32337a2c.chunk.css",
-    "static/js/main.939ed82b.chunk.js"
+    "static/js/main.6a6e529d.chunk.js"
   ]
 }
