@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dhl-gallery-reactjs/static/css/main.e8dcb26f.chunk.css",
-    "main.js": "/dhl-gallery-reactjs/static/js/main.fbafe451.chunk.js",
-    "main.js.map": "/dhl-gallery-reactjs/static/js/main.fbafe451.chunk.js.map",
-    "runtime-main.js": "/dhl-gallery-reactjs/static/js/runtime-main.45d6cbae.js",
-    "runtime-main.js.map": "/dhl-gallery-reactjs/static/js/runtime-main.45d6cbae.js.map",
-    "static/js/2.7073db98.chunk.js": "/dhl-gallery-reactjs/static/js/2.7073db98.chunk.js",
-    "static/js/2.7073db98.chunk.js.map": "/dhl-gallery-reactjs/static/js/2.7073db98.chunk.js.map",
-    "index.html": "/dhl-gallery-reactjs/index.html",
-    "precache-manifest.c5aefae06abe542bf4794904bc5b346a.js": "/dhl-gallery-reactjs/precache-manifest.c5aefae06abe542bf4794904bc5b346a.js",
-    "service-worker.js": "/dhl-gallery-reactjs/service-worker.js",
-    "static/css/main.e8dcb26f.chunk.css.map": "/dhl-gallery-reactjs/static/css/main.e8dcb26f.chunk.css.map",
-    "static/js/2.7073db98.chunk.js.LICENSE.txt": "/dhl-gallery-reactjs/static/js/2.7073db98.chunk.js.LICENSE.txt"
+    "main.css": "/gallery-reactjs/static/css/main.32337a2c.chunk.css",
+    "main.js": "/gallery-reactjs/static/js/main.7b7a0ad3.chunk.js",
+    "main.js.map": "/gallery-reactjs/static/js/main.7b7a0ad3.chunk.js.map",
+    "runtime-main.js": "/gallery-reactjs/static/js/runtime-main.84b515b8.js",
+    "runtime-main.js.map": "/gallery-reactjs/static/js/runtime-main.84b515b8.js.map",
+    "static/js/2.553938f3.chunk.js": "/gallery-reactjs/static/js/2.553938f3.chunk.js",
+    "static/js/2.553938f3.chunk.js.map": "/gallery-reactjs/static/js/2.553938f3.chunk.js.map",
+    "index.html": "/gallery-reactjs/index.html",
+    "precache-manifest.a24c8a629526953e6c77f66bf395792c.js": "/gallery-reactjs/precache-manifest.a24c8a629526953e6c77f66bf395792c.js",
+    "service-worker.js": "/gallery-reactjs/service-worker.js",
+    "static/css/main.32337a2c.chunk.css.map": "/gallery-reactjs/static/css/main.32337a2c.chunk.css.map",
+    "static/js/2.553938f3.chunk.js.LICENSE.txt": "/gallery-reactjs/static/js/2.553938f3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.45d6cbae.js",
-    "static/js/2.7073db98.chunk.js",
-    "static/css/main.e8dcb26f.chunk.css",
-    "static/js/main.fbafe451.chunk.js"
+    "static/js/runtime-main.84b515b8.js",
+    "static/js/2.553938f3.chunk.js",
+    "static/css/main.32337a2c.chunk.css",
+    "static/js/main.7b7a0ad3.chunk.js"
   ]
 }
